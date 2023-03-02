@@ -1,0 +1,46 @@
+.main{
+    margin-top: 100px;
+    text-align: center;
+}
+
+
+.logo{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+.search{
+    display: block;
+    width: 465px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 42px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 44px;
+    padding-right: 52px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    margin-bottom: 15px;
+
+}
+.mainbtn{
+    display: flex;
+    justify-content: center;
+
+}
+.buttn{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 120px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+
+}
+.para{
+    margin-left: 40px;
+}
